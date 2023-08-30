@@ -13,3 +13,5 @@
 [MER_diagrama](./diagramas/MER_GymPass.png)
 
 [CLASS_diagrama](./diagramas/class_diagram.jpeg)
+
+[API](./Api/)
