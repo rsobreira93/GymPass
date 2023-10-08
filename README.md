@@ -18,4 +18,4 @@
 
 [Apresentação 2° unidade](https://docs.google.com/presentation/d/1W_wxVEAuiNeiEZjD_NVHZynaylnNRdjSu7KRUVdAaJs/edit?usp=sharing)
 
-[DiagramaUseCase]((./diagramas/DiagramaUseCase.jpeg)
+[DiagramaUseCase](./diagramas/DiagramaUseCase.jpeg)
