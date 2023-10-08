@@ -17,3 +17,5 @@
 [API](https://github.com/rsobreira93/03-api-solid)
 
 [Apresentação 2° unidade](https://docs.google.com/presentation/d/1W_wxVEAuiNeiEZjD_NVHZynaylnNRdjSu7KRUVdAaJs/edit?usp=sharing)
+
+[CLASS_diagrama](C:\Users\jo-ov\OneDrive\Imagens\Capturas de tela\DiagramaUseCase.jpeg)
